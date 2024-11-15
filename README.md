@@ -41,7 +41,7 @@ Once you’ve got the app started up, it’s time to make your first edit and ad
 
 We now have 2 different views (list view and single view). We now want to add support for creating pages!
 1. Create a button on the main page
-2. When the button is clicked, set a boolean to true on state (something like isAddingArticle or something
+2. When the button is clicked, set a boolean to true on state something like isAddingArticle or something
 3. When the boolean is true display a form (instead of the list of pages)
 4. The form should have inputs for all the required fields
     - Title
